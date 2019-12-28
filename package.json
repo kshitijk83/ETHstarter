@@ -1,0 +1,19 @@
+{
+  "name": "kickstart-ethereum",
+  "version": "1.0.0",
+  "description": "Kickstart can have many fraud campaign(projects), ethereum can reduce those errors if we directly send money from our backers to the vendor and not the project owner",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "kshitij kumar",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "ganache-cli": "^6.7.0",
+    "mocha": "^6.2.2",
+    "solc": "^0.4.17",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.0.0-beta.26"
+  }
+}
