@@ -9,8 +9,27 @@ Some malicious project owners don't spend there money in building their projects
 ## Solution
 A simple solution of this is that we send money to an ethereum contract for a specific campaign. Then owner can only spend the money by sending it to a specified vendor's address. Now to enhance more security contributors/donators can vote if they a money spending to a vendor should be allowed or not(by checking the authenticity of vendor's ethereum account address), if voting passes a specific percentage the transaction is allowed to happen otherwise not.
 
-# Demo
+## Functionaity
+- User (owner) create a campaign on '/' route.
+- any user can view the campaign and contribute to the campaign.
+- owner can make request for ETH transfer to a vendor for e.g. buying batteries.
+- users can vote for a vendor ETH transfer request.
+- if vote percentage is above 50%, owner can initiate the transfer to vendor otherwise it will fail.
 
+# Demo
+<img src="screenshots/1.png" width="100%">
+
+---
+<img src="screenshots/2.png" width="100%">
+
+---
+<img src="screenshots/3.png" width="100%">
+
+---
+<img src="screenshots/4.png" width="100%">
+
+---
+<img src="screenshots/5.png" width="100%">
 # Tech-Used
 - Nextjs
 - Reactjs
