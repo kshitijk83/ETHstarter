@@ -39,6 +39,7 @@ A simple solution of this is that we send money to an ethereum contract for a sp
 
 ## Usage
 ```node
+npm install // node should installed
 npm run dev // for dev-server
 npm run build // for build files
 ```
