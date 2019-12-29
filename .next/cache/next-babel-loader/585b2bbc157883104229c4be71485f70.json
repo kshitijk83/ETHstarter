@@ -1,0 +1,1 @@
+{"ast":null,"code":"import web3 from './web3';\nimport CampaignFactory from './build/Factory.json';\nconst factoryAddress = '0x8EDE3Af0617823e544230b393268103A02E8cb3F';\nconst instance = new web3.eth.Contract(JSON.parse(CampaignFactory.interface), factoryAddress);\nexport default instance;","map":null,"metadata":{},"sourceType":"module"}
