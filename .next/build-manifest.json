@@ -1,48 +1,28 @@
 {
-  "devFiles": [],
+  "devFiles": [
+    "static/development/dll/dll_4b8bef20edde04f98d3f.js",
+    "static/development/dll/dll_4b8bef20edde04f98d3f.js.map"
+  ],
   "pages": {
-    "/": [
-      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
-      "static/chunks/commons.49c6926f0af412b4bbcb.js",
-      "static/runtime/main-45c9c83b85743b1727cb.js"
-    ],
     "/_app": [
-      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
-      "static/chunks/commons.49c6926f0af412b4bbcb.js",
-      "static/runtime/main-45c9c83b85743b1727cb.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/_error": [
-      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
-      "static/chunks/commons.49c6926f0af412b4bbcb.js",
-      "static/runtime/main-45c9c83b85743b1727cb.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/_polyfills": [
-      "static/runtime/polyfills-0638c93e5165546c7715.js"
-    ],
-    "/campaigns/new": [
-      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
-      "static/chunks/commons.49c6926f0af412b4bbcb.js",
-      "static/runtime/main-45c9c83b85743b1727cb.js"
-    ],
-    "/campaigns/requests": [
-      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
-      "static/chunks/commons.49c6926f0af412b4bbcb.js",
-      "static/runtime/main-45c9c83b85743b1727cb.js"
+      "static/runtime/polyfills.js",
+      "static/runtime/polyfills.js.map"
     ],
     "/campaigns/requests/new": [
-      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
-      "static/chunks/commons.49c6926f0af412b4bbcb.js",
-      "static/runtime/main-45c9c83b85743b1727cb.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/campaigns/show": [
-      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
-      "static/chunks/commons.49c6926f0af412b4bbcb.js",
-      "static/runtime/main-45c9c83b85743b1727cb.js"
-    ],
-    "/index": [
-      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
-      "static/chunks/commons.49c6926f0af412b4bbcb.js",
-      "static/runtime/main-45c9c83b85743b1727cb.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ]
   }
 }
